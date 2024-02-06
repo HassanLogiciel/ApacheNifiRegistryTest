@@ -1,0 +1,7 @@
+flows:
+  5bd88822-0a9b-44c2-b60b-b77b9176da98: {ver: 5, file: MethodToValidateCSV.snapshot,
+    comments: Change Strategy to flow file, author: anonymous, created: 1707219448638,
+    flowName: MethodToValidateCSV, flowDesc: Different method to validate the csv
+      file.}
+layoutVer: 1
+bucketId: 14d8dc9b-2b5d-44e7-95dc-f8a6f40e6e4f
