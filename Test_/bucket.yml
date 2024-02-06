@@ -3,7 +3,8 @@ flows:
     comments: Change Strategy to flow file, author: anonymous, created: 1707219448638,
     flowName: MethodToValidateCSV, flowDesc: Different method to validate the csv
       file.}
-  e5a6e006-38a5-413e-9c3b-47d239edb6d6: {ver: 1, file: AnotherFLow.snapshot, comments: '',
-    author: anonymous, created: 1707219866871, flowName: AnotherFLow, flowDesc: a}
+  e5a6e006-38a5-413e-9c3b-47d239edb6d6: {ver: 2, file: AnotherFLow.snapshot, comments: Add
+      Processor Generate Flow File, author: anonymous, created: 1707219924096, flowName: AnotherFLow,
+    flowDesc: a}
 layoutVer: 1
 bucketId: 14d8dc9b-2b5d-44e7-95dc-f8a6f40e6e4f
